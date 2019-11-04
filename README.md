@@ -1,2 +1,3 @@
-# DatabaseMiniERP
-Database management course assignment
+# Database MiniERP
+Database management course assignment. 
+Vilnius University, 2018
